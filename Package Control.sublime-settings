@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"PackageSync",
+		"SideBarEnhancements"
+	]
+}
