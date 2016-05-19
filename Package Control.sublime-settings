@@ -6,10 +6,12 @@
 	"installed_packages":
 	[
 		"Babel",
+		"ConvertToUTF8",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emmet Style Reflector",
 		"HTML-CSS-JS Prettify",
+		"Material Theme",
 		"Package Control",
 		"PackageSync",
 		"SideBarEnhancements"
